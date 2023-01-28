@@ -1,0 +1,15 @@
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\bin\Debug\net6.0\LocateCar.exe
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\bin\Debug\net6.0\LocateCar.deps.json
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\bin\Debug\net6.0\LocateCar.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\bin\Debug\net6.0\LocateCar.dll
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\bin\Debug\net6.0\LocateCar.pdb
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.dll
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\refint\LocateCar.dll
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.pdb
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\LocateCar.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders Projetos\LocateCar\LocateCar\obj\Debug\net6.0\ref\LocateCar.dll
